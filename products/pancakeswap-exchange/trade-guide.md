@@ -1,18 +1,16 @@
 # How to Trade
 
-![](../../.gitbook/assets/docs-masthead-5-.png)
-
-Trading on PancakeSwap is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
+Trading on MetaProSwap is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
 
 ### Getting set up to trade
 
 Before you can trade, you will need a BNB Smart Chain-compatible wallet. You can learn how to get one [here](https://docs.pancakeswap.finance/get-started/wallet-guide). You will also need to have some BEP20 tokens to trade with. You can learn how to get some [here](https://docs.pancakeswap.finance/get-started/bep20-guide).
 
-### Trading on the PancakeSwap exchange
+### Trading on the MetaProSwap exchange
 
-1\. Go to the exchange page [here](https://exchange.pancakeswap.finance/#/swap).
+1\. Go to the exchange page.
 
-2\. Unlock your BNB Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to PancakeSwap, you can view the guide to [here](https://docs.pancakeswap.finance/get-started/connection-guide).
+2\. Unlock your BNB Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to MetaProSwap.&#x20;
 
 ![](<../../.gitbook/assets/image (12).png>)
 
