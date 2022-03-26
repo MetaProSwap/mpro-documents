@@ -10,32 +10,32 @@ Before you can trade, you will need a BNB Smart Chain-compatible wallet. You can
 
 1\. Go to the exchange page.
 
-2\. Unlock your BNB Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to MetaProSwap.&#x20;
+2\. Unlock your BNB Smart Chain-compatible wallet by clicking **Connect Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to MetaProSwap.&#x20;
 
-![](<../../.gitbook/assets/image (12).png>)
+![](../../.gitbook/assets/ConnectWallet.png)
 
 3\. Choose the token you want to trade from the dropdown menu in the "From" section. The default setting is BNB.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](../../.gitbook/assets/exchange.png)
 
 Whichever token you choose, you will need to make sure you have some to trade with. Your balance is shown above the token dropdown menu.
 
 4\. Choose the token you want to trade to in the "To" section as above. Next, type an amount for your "To" currency by clicking inside the input box.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](../../.gitbook/assets/exchange\_1.png)
 
 Your "From" currency amount will be estimated automatically. You can also type your "From" amount and have the "To" amount estimate automatically if you like.
 
 5\. Check the details, and click the **Swap** button.
 
-![](<../../.gitbook/assets/image (15).png>)
+![](../../.gitbook/assets/exchange\_2.png)
 
 6\. A window with more details will appear. Check the details are correct.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](../../.gitbook/assets/exchange\_3.png)
 
 When you are ready, click the **Confirm Swap** button. Your wallet will ask you to confirm the action.
 
 7\. Done! You can click **View on BscScan** to see your transaction details on the explorer.
 
-![](<../../.gitbook/assets/image (17).png>)
+![](../../.gitbook/assets/exchange\_4.png)

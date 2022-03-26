@@ -1,7 +1,5 @@
 # MetaProSwap Intro
 
-![](<.gitbook/assets/masthead-twitter-3- (1) (1).png>)
-
 {% hint style="success" %}
 **MetaProSwap helps you make the most out of your crypto in three ways:**
 
@@ -43,7 +41,7 @@ Stake LP tokens, earn MPRO. You take on a little more exposure to market fluctua
 
 No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
 
-> PancakeSwap makes making money fun.
+> MetaProSwap makes making money fun.
 
 ## Is MetaProSwap safe?
 

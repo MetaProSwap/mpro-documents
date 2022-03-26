@@ -1,5 +1,5 @@
 ---
-description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
+description: 'Pools: the simplest way to earn on MetaProSwap'
 ---
 
 # How to Stake in Pools
@@ -12,17 +12,17 @@ It's simpler than farming with MetaProSwap Yield Farms, because unlike the Farms
 
 1\. Go to the Pools page.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/pools (1).png>)
 
 2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 
-3\. Click **Unlock Wallet**.
+3\. Click **Connect Wallet**.
 
-![](<../../.gitbook/assets/image (30).png>)
+![](../../.gitbook/assets/ConnectWallet.png)
 
 4\. Choose which Pool you want to stake in.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/pools\_detail (2).png>)
 
 **Manual MPRO** doesn’t automatically compound. You’ll need to harvest and compound your earnings manually.
 
@@ -34,15 +34,15 @@ Other Pools let you stake your MPRO to earn dozens of other cool tokens. Make su
 
 6\. The Enable button should now be replaced with **Stake**. Click the button to bring up the staking menu.
 
-![](<../../.gitbook/assets/image (22).png>)
+![](../../.gitbook/assets/pools\_1.png)
 
 7\. Type in an amount or slide the rabbit to choose how much MPRO you want to stake.
 
-![](<../../.gitbook/assets/image (23).png>)
+![](../../.gitbook/assets/pools\_2.png)
 
 8\. Click **Confirm**. Your wallet will ask you to confirm the action.
 
-![](<../../.gitbook/assets/image (28).png>)
+![](../../.gitbook/assets/pools\_3.png)
 
 9\. The Confirm button will change to \*\*"\*\*Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
 
@@ -54,14 +54,14 @@ You can easily add more MPRO to a Pool, or move some MPRO to a more profitable p
 
 1\. Click the **-** to take some MPRO out of a pool, or the **+** to add more to the pool.
 
-![](<../../.gitbook/assets/image (26).png>)
+![](../../.gitbook/assets/pools\_4.png)
 
 2\. A window will open. If you clicked the **+**, choose the amount you would like to add to the pool. If you clicked the **-**, choose the amount to take out of the pool.
 
-![](<../../.gitbook/assets/image (27).png>)
+![](../../.gitbook/assets/pools\_5.png)
 
 3\. Click **Confirm**.
 
 4\. After a little wait, you'll be able to see your new amount of staked tokens.
 
-![](<../../.gitbook/assets/image (29).png>)
+![](../../.gitbook/assets/pools\_6.png)

@@ -8,9 +8,9 @@
 
 MPRO is the delicious token that powers the MetaProSwap ecosystem.
 
-Earn MPRO from Farms and Staking Pools, or [buy it on the exchange](../products/pancakeswap-exchange/), then explore its use cases:
+Earn MPRO from Farms and Staking Pools, or [buy it on the exchange](../../products/pancakeswap-exchange/), then explore its use cases:
 
-* Stake it in [Pools](../products/syrup-pool/) to earn free tokens
+* Stake it in [Pools](../../products/syrup-pool/) to earn free tokens
 * Use it in [Yield Farms](https://docs.pancakeswap.finance/products/yield-farming) to earn more MPRO
 
 But that's not all -- there's much more on the horizon for MPRO!
